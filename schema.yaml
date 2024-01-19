@@ -36,7 +36,7 @@ components:
           x-walrus-ui:
             group: Basic
             order: 1
-            widget: YamlEditor
+            widget: TextArea
       x-walrus-ui:
         groupOrder:
         - Basic
